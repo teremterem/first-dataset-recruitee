@@ -1,0 +1,4 @@
+[core]
+    remote = recruitee-gdrive
+['remote "recruitee-gdrive"']
+    url = gdrive://1q2P2ZheY5BsJrqkeRFMkKvGAzk9PaSKV
